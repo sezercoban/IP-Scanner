@@ -1,0 +1,9 @@
+C:\Users\Sezer\source\repos\IP Scanner\IP Scanner\bin\Debug\IP Scanner.exe.config
+C:\Users\Sezer\source\repos\IP Scanner\IP Scanner\bin\Debug\IP Scanner.exe
+C:\Users\Sezer\source\repos\IP Scanner\IP Scanner\bin\Debug\IP Scanner.pdb
+C:\Users\Sezer\source\repos\IP Scanner\IP Scanner\obj\Debug\IP Scanner.csprojAssemblyReference.cache
+C:\Users\Sezer\source\repos\IP Scanner\IP Scanner\obj\Debug\IP_Scanner.Form1.resources
+C:\Users\Sezer\source\repos\IP Scanner\IP Scanner\obj\Debug\IP_Scanner.Properties.Resources.resources
+C:\Users\Sezer\source\repos\IP Scanner\IP Scanner\obj\Debug\IP Scanner.csproj.GenerateResource.cache
+C:\Users\Sezer\source\repos\IP Scanner\IP Scanner\obj\Debug\IP Scanner.exe
+C:\Users\Sezer\source\repos\IP Scanner\IP Scanner\obj\Debug\IP Scanner.pdb
